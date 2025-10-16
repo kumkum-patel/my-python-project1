@@ -1,0 +1,26 @@
+{
+  "products": [
+    {"id": 1, "name": "Shoes", "price": 1200},
+    {"id": 2, "name": "T-shirt", "price": 500},
+    {"id": 3, "name": "Headphones", "price": 2000},
+    {"id": 4, "name": "Backpack", "price": 1500},
+    {"id": 5, "name": "Smartwatch", "price": 3500},
+    {"id": 6, "name": "Sunglasses", "price": 800},
+    {"id": 7, "name": "Laptop", "price": 45000},
+    {"id": 8, "name": "Water Bottle", "price": 300},
+    {"id": 9, "name": "Bluetooth Speaker", "price": 1800},
+    {"id": 10, "name": "Jeans", "price": 1200}
+  ],
+  "orders": [
+    {"order_id": "12345", "status": "Out for delivery"},
+    {"order_id": "67890", "status": "Delivered"},
+    {"order_id": "54321", "status": "Processing"},
+    {"order_id": "11223", "status": "Cancelled"},
+    {"order_id": "33445", "status": "Delivered"},
+    {"order_id": "55667", "status": "Out for delivery"},
+    {"order_id": "77889", "status": "Processing"},
+    {"order_id": "99001", "status": "Returned"},
+    {"order_id": "22334", "status": "Delivered"},
+    {"order_id": "44556", "status": "Processing"}
+  ]
+}
